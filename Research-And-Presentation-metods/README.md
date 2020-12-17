@@ -9,6 +9,6 @@
 
 
 ## Oral-presentation
-- [kholase.pdf]()
-- [kholase.tex]()
+- [kholase.pdf](https://github.com/mobinrajabi/PNU_3991_AR/blob/main/Research-And-Presentation-metods/document.pdf)
+- [kholase.tex](https://github.com/mobinrajabi/PNU_3991_AR/blob/main/Research-And-Presentation-metods/document.tex)
 - [film]()
